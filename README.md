@@ -1,2 +1,3 @@
-# tartan-build-guide
- Build guide for the tartan keyboard
+# Tartan # Through hole kit Build Guide
+
+- [Build Guide(en)](en/)
