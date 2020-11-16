@@ -12,7 +12,7 @@ Check the layout before soldering.
 
 If the switch does not interfere, any layout you choose will work by rewriting the firmware.
 
-## For PCB Layout
+## PCB Layout
 
 You can choose ISO layout instead of the ANSI layout
 
@@ -22,9 +22,9 @@ You can choose ISO layout instead of the ANSI layout
 
 Install the stabilizer in the required position.
 
-# Installation of bottom PCB and acrylic cover
+# Installation of bottom acrylic plate
 
-Install with screws and nuts as shown below. The direction of the screws and the number of nuts used in the part where the cover is not attached and the part where the cover is attached are different. For the part without the cover, attach screws and nuts to the Main PCB side, and for the part to attach the cover, attach the screws to the Bottom PCB side, align both PCBs, and attach the remaining nuts.
+Install with screws and nuts as shown below.
 
 ## Case
 
@@ -40,7 +40,7 @@ Bottom Plate
 [Nut]
 ```
 
-# carry out !
+# Finishing steps
 
 Attach the keycap and you're done.
 Thank you for your hard work.

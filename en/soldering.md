@@ -2,7 +2,7 @@
 
 ## Before starting assembly
 
-- Check the BOM to see if the parts are complete
+- Check the [BOM](./BOM.md) to see if the parts are complete
 - If you are unfamiliar with soldering, study at the following site
   - Links in the tool memo required to create the Helix keyboard kit- Soldering
   - https://learn.adafruit.com/adafruit-guide-excellent-soldering/tools

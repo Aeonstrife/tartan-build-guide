@@ -37,10 +37,6 @@ After writing the default keymap for the first time, it is recommended to test i
 
 - https://docs.qmk.fm/#/newbs_building_firmware
 
-## After improving the firmware
-
-Send PR!
-
 ## NEXT
 
 [Switch soldering and bottom PCB installation](./complete.md)
