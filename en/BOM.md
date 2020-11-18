@@ -7,7 +7,7 @@
 | C1           | 1        | 4.7uF Electrolytic capacitor                      |
 | C2, C3       | 2        | 0.1uF Multilayer Ceramic Capacitor (5.08mm pitch) |
 | C4, C5       | 2        | 22pF Multilayer Ceramic Capacitor (2.54mm pitch)  |
-| D1-D64       | 64       | 1N4148 or compatible                              |
+| D1-D64       | 64       | 1N4148                                            |
 | D65, D66     | 2        | 3.6V Zener diode                                  |
 | F1           | 1        | 100mA Polyfuse                                    |
 | J1           | 1        | 3x2 pin header                                    |
@@ -24,6 +24,7 @@
 | Nut          | 9        | M2 nut                                            |
 | PCB          | 1        | Main PCB                                          |
 | Backplate    | 1        | Acrylic Backplate                                 |
+| Feet         | 5        | Silicone Feet                                     |
 
 ## Not included in the Tartan kit
 
